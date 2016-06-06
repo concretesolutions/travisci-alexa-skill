@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "TravisIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
